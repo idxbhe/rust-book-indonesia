@@ -1,3 +1,4 @@
+# Bahasa Pemrograman Rust
 *oleh Steve Klabnik, Carol Nichols, dan Chris Krycho, dengan kontribusi dari Komunitas Rust*
 
 Versi teks ini mengasumsikan Anda menggunakan Rust 1.85.0 (rilis 17 Februari 2025) atau lebih baru dengan `edition = "2024"` dalam berkas `Cargo.toml` dari semua proyek untuk mengonfigurasinya agar menggunakan idiom edisi Rust 2024. Lihat bagian “Instalasi” pada Bab 1 untuk menginstal atau memperbarui Rust.
